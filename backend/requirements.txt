@@ -1,0 +1,11 @@
+fastapi==0.109.1
+uvicorn==0.27.1
+python-multipart==0.0.9
+langchain==0.1.9
+langchain-google-genai
+selenium==4.18.1
+beautifulsoup4==4.12.3
+google-generativeai
+python-dotenv==1.0.1
+webdriver-manager==4.0.1
+requests==2.31.0 

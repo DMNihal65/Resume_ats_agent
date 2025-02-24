@@ -1,0 +1,51 @@
+{
+  "missing_keywords": [
+    "Redux",
+    "React Native",
+    "Mobile Application Development",
+    "API",
+    "Android",
+    "Cross-platform Development",
+    "React Web",
+    "TypeScript",
+    "React Navigation",
+    "React Query",
+    "Context API",
+    "React Native Firebase",
+    "React Native UI/UX Component libraries",
+    "push notifications",
+    "A/B Testing",
+    "native iOS",
+    "Android development",
+    "CI/CD workflows"
+  ],
+  "existing_keywords": [],
+  "suggested_modifications": {},
+  "ats_score": 0,
+  "improvement_suggestions": [
+    {
+      "title": "Add relevant technical skills",
+      "description": "The resume should include keywords from the job description to improve its visibility to Applicant Tracking Systems (ATS). Consider adding skills such as JavaScript, React, React Native, Mobile Application Development, API, Android, Cross-platform Development, React Web, TypeScript, React Navigation, React Query, Context API, React Native Firebase, React Native UI/UX Component libraries, push notifications, A/B Testing, native iOS, Android development, and CI/CD workflows.",
+      "priority": "high",
+      "type": "warning"
+    },
+    {
+      "title": "Highlight relevant experience",
+      "description": "The resume should emphasize experience in areas related to the job description. Consider adding projects or responsibilities that demonstrate proficiency in JavaScript, React, React Native, Mobile Application Development, API, Android, Cross-platform Development, React Web, TypeScript, React Navigation, React Query, Context API, React Native Firebase, React Native UI/UX Component libraries, push notifications, A/B Testing, native iOS, Android development, and CI/CD workflows.",
+      "priority": "medium",
+      "type": "improvement"
+    },
+    {
+      "title": "Quantify accomplishments",
+      "description": "The resume should include specific, quantifiable results to demonstrate the impact of the candidate's work. Consider adding metrics or data points to support claims of success.",
+      "priority": "medium",
+      "type": "improvement"
+    },
+    {
+      "title": "Tailor the resume to the job description",
+      "description": "The resume should be tailored to the specific requirements of the job description. Consider using keywords from the job description throughout the resume, and highlighting relevant skills and experience.",
+      "priority": "high",
+      "type": "warning"
+    }
+  ]
+}
